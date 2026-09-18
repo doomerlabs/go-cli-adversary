@@ -236,7 +236,7 @@ Static = precise facts. LLM = enhancement + evidence-gated discovery. When unsur
 
 **Public examples of the bad pattern:**
   - https://github.com/spf13/cobra
-  - https://github.com/adversarylabs/adversary — version package
+  - https://github.com/doomerlabs/adversary — version package
   - https://pkg.go.dev/runtime/debug#ReadBuildInfo
 
 ---

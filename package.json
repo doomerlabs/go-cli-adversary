@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adversarylabs/go-cli-adversary.git"
+    "url": "git+https://github.com/doomerlabs/go-cli-adversary.git"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json --noEmit && node scripts/build.mjs",
