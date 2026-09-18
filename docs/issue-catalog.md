@@ -6,8 +6,8 @@ It is documentation and roadmap for contributors — not a runtime contract. Imp
 
 Public examples cited below illustrate bad patterns only. Do not scrape secrets from them or copy copyrighted code into fixtures.
 
-**Catalog id:** `go/cli`  
-**Status:** public OSS documentation of the issue classes this adversary targets  
+**Catalog id:** `go/cli`
+**Status:** public OSS documentation of the issue classes this adversary targets
 **Goal:** trusted, high-precision detections. Prefer missing a weak signal over a false positive.
 
 ## Mission
@@ -236,7 +236,7 @@ Static = precise facts. LLM = enhancement + evidence-gated discovery. When unsur
 
 **Public examples of the bad pattern:**
   - https://github.com/spf13/cobra
-  - https://github.com/doomerlabs/adversary — version package
+  - https://github.com/doomerlabs/doomer — version package
   - https://pkg.go.dev/runtime/debug#ReadBuildInfo
 
 ---
