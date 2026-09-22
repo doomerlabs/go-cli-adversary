@@ -4,7 +4,7 @@
   "description": "Reviews Go command-line applications for predictable configuration, cancellation, diagnostics, and exit behavior.",
   "type": "module",
   "private": true,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/doomerlabs/go-cli-adversary.git"
